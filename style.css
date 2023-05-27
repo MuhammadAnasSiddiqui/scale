@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.h1{
+    text-align: center;
+    background-color: lightgrey;
+    padding: 30px;
+    color: grey;
+    width: 90%;
+    margin: 20px auto;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: rgb(179, 179, 179);
+}
+.bColor1{
+    color: white;
+    background-color: #0088dd;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+
+}
+.bColor2{
+    color: white;
+    background-color: #0095e2;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+}
+.bColor3{
+    color: white;
+    background-color: #00a0e6;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+}
+.bColor4{
+    color: white;
+    background-color: #30aae9;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+}.bColor5{
+    color: white;
+    background-color: #54b6ed;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+}.bColor6{
+    color: white;
+    background-color: #72c1f0;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+}.bColor7{
+    color: white;
+    background-color: #8ccaf2;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+}.greenColor{
+    color: white;
+    background-color: #00bb88;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+}
+.pColor1{
+    color: white;
+    background-color: #f5b0cc;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+}
+.pColor2{
+    color: white;
+    background-color: #f69fc0;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+}
+.pColor3{
+    color: white;
+    background-color: #f58cb2;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+}
+.pColor4{
+    color: white;
+    background-color: #f47ba6;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+}
+.pColor5{
+    color: white;
+    background-color: #f36a98;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+}
+.pColor6{
+    color: white;
+    background-color: #f45a8b;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+}.pColor7{
+    color: white;
+    background-color: #ee3e80;
+    padding: 4px;
+    width: 90%;
+    margin: 0px auto;
+}
